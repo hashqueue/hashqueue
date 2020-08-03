@@ -1,4 +1,4 @@
-![](/home/mi/PycharmProjects/passerby223/me.gif)
+![](https://github.com/passerby223/passerby223/blob/master/me.gif)
 
 <!--### Hi there 👋
 
