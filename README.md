@@ -1,6 +1,5 @@
 ![](https://github.com/passerby223/passerby223/blob/master/me.gif)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--### Hi there 👋
 
