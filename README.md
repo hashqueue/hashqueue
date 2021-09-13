@@ -1,4 +1,8 @@
-<h1 align='center'>Hello,World!</h1>
+<h1 align='center'>业精于勤而荒于嬉，行成于思而毁于随。</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashqueue&show_icons=true&theme=tokyonight">
+</p>
 
 ---
 
