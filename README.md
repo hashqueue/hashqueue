@@ -1,4 +1,4 @@
-<h1 align='center'>业精于勤而荒于嬉，行成于思而毁于随。</h1>
+<!-- <h1 align='center'>业精于勤而荒于嬉，行成于思而毁于随。</h1> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashqueue&theme=github">
