@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hashqueue&show_icons=true&theme=tokyonight">
 </p>
 -->
-`Love programming.`
+`I like code.`
 
-![hashqueue's github stats](https://github-readme-stats.vercel.app/api?username=hashqueue&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashqueue&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+![hashqueue's github stats](https://github-readme-stats.vercel.app/api?username=hashqueue&show_icons=true&line_height=40&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashqueue&theme=vue)
