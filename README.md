@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hashqueue&show_icons=true&theme=tokyonight">
 </p>
 -->
-`I like code.`
+`I like coding.`
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashqueue&theme=github)
 
